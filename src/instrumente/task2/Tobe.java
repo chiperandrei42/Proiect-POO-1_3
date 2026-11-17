@@ -1,4 +1,4 @@
-package instrumente;
+package instrumente.task2;
 
 public class Tobe extends InstrumentMuzical {
     private int numarTobe;
