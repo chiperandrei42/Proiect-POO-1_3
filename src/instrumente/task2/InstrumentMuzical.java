@@ -1,4 +1,4 @@
-package instrumente;
+package instrumente.task2;
 
 public class InstrumentMuzical implements ActiuniInstrument {
     private String nume;
