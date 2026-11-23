@@ -8,7 +8,7 @@ public class Pian extends InstrumentMuzical implements Instrument{
 
     @Override
     public void canta(){
-        System.out.println("Pianul " + nume + " canta avand " + numarClape + " clape."):
+        System.out.println("Pianul " + nume + " canta avand " + numarClape + " clape.");
     }
 
     @Override
